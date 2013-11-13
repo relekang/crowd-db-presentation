@@ -28,6 +28,15 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 --
 ## Architecture
 ![CrowdDB Architecture](crowddb-architecture.png)
+--
+## User interface generation
+* User interface has a large impact on performance.
+* CrowdDB automaticly creates UI for tasks. 
+* Options are leading
+<!-- ## Problems -->
+<!-- * Budget -->
+<!-- * Uncorrect values (spammers) -->
+<!-- * Outdated -->
 ---
 ## CrowdSQL
 *A superset of SQL*
@@ -68,14 +77,6 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
     SELECT p FROM picture
       WHERE subject = "Golden Gate Bridge"
       ORDER BY CROWDORDER(p, "Which picture visualizes better %subject");
-<!-- ## Problems -->
-<!-- * Budget -->
-<!-- * Uncorrect values (spammers) -->
-<!-- * Outdated -->
----
-## User interface generation
-* User interface has a large impact on performance.
-* CrowdDB automaticly creates UI for tasks. 
 ---
 ## Query Processing
 * CrowdProbe
@@ -89,10 +90,19 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Responsiveness
 * Worker quality
 --
+### Tuning parameters
+![](http://dummyimage.com/260x260)
+![](http://dummyimage.com/260x260)
+![](http://dummyimage.com/260x260)
+![](http://dummyimage.com/260x260)
+![](http://dummyimage.com/260x260)
+--
 ### Complex queries
-* Entity resolution companies 
+* Entity resolution 
 * Ordering pictures
-* Joining on unkown values
+* Joining on unknown values
 ---
 ## Conclusion
-
+* Combination of human input and efficient DBMS creates new possibilities
+* The DBMS produced for this paper is a proof of concept
+* Fallpits
