@@ -83,7 +83,16 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * CrowdCompare
 ---
 ## Experiments
-
+--
+### Tuning parameters
+* Response time
+* Responsiveness
+* Worker quality
+--
+### Complex queries
+* Entity resolution companies 
+* Ordering pictures
+* Joining on unkown values
 ---
 ## Conclusion
 
