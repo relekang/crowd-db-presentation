@@ -11,13 +11,16 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Small tasks with no training requirements
 * Replica tasks 
 --
-## Amazon Mechaical Turk
+## Amazon Mechanical Turk
 * **Human Intelligent Task(HIT)** The smallest amount of work a worker can accept  
 * **Assignment** A replica of a HIT  
 * **HIT group** A automaticly created group of HITs  
 * **Microtask** A task that require no training.
 ---
 ## CrowdDB
+* Combines a database and AMT 
+* Uses a declerative query language  
+  as a interface for AMT
 --
 ## Design consideration
 * Performance and variability
