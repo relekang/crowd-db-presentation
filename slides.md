@@ -66,7 +66,7 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
       email STRING UNIQUE,
       university STRING,
       department STRING,
-      url CROWD STRING,
+      url STRING,
       FOREIGN KEY (university, department)
         REF Department(university, name)
     );
