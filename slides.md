@@ -2,9 +2,9 @@
 Presentation of   
 Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 --
-## The problem
-<!-- FIXME -->
-<!-- *Humans can complete some tasks in a better fashion than computers.* -->
+## The problems
+1. Closed world assumption
+2. No tolerance for inconsistency  
 ---
 ## Crowdsourcing
 * Distribute workload to a large group of people
@@ -33,10 +33,11 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * User interface has a large impact on performance.
 * CrowdDB automaticly creates UI for tasks. 
 * Options are leading
-<!-- ## Problems -->
-<!-- * Budget -->
-<!-- * Uncorrect values (spammers) -->
-<!-- * Outdated -->
+--
+## Problems
+* Budget
+* Uncorrect values (spammers)
+* Outdated
 ---
 ## CrowdSQL
 *A superset of SQL*
@@ -103,6 +104,6 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Joining on unknown values
 ---
 ## Conclusion
-* Combination of human input and efficient DBMS creates new possibilities
-* The DBMS produced for this paper is a proof of concept
+* <!-- Combination of human input and efficient DBMS creates--> New possibilities
+* Only a proof of concept
 * Fallpits
