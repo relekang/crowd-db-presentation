@@ -95,11 +95,11 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Worker quality
 --
 ### Tuning parameters
-![](http://dummyimage.com/260x260)
-![](http://dummyimage.com/260x260)
-![](http://dummyimage.com/260x260)
-![](http://dummyimage.com/260x260)
-![](http://dummyimage.com/260x260)
+![figure](1.png)
+![figure](2.png)
+![figure](3.png)
+![figure](4.png)
+![figure](5.png)
 --
 ### Complex queries
 * Entity resolution 
