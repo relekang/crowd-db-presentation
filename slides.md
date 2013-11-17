@@ -16,6 +16,9 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * **Assignment** A replica of a HIT  
 * **HIT group** A automaticly created group of HITs  
 * **Microtask** A task that require no training.
+--
+## Example HIT 
+![figure](img/amt-example.png)
 ---
 ## CrowdDB
 * Combines a database and AMT 
@@ -30,12 +33,14 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Open versus closed world
 --
 ## Architecture
-![CrowdDB Architecture](crowddb-architecture.png)
+![CrowdDB Architecture](img/crowddb-architecture.png)
 --
 ## User interface generation
 * User interface has a large impact on performance.
 * CrowdDB automaticly creates UI for tasks. 
 * Options are leading
+
+![figure](img/ui.png)
 --
 ## Problems
 * Budget
@@ -95,11 +100,11 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Worker quality
 --
 ### Tuning parameters
-![figure](1.png)
-![figure](2.png)
-![figure](3.png)
-![figure](4.png)
-![figure](5.png)
+![figure](img/1.png)
+![figure](img/2.png)
+![figure](img/3.png)
+![figure](img/4.png)
+![figure](img/5.png)
 --
 ### Complex queries
 * Entity resolution 
