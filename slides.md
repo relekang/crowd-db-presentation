@@ -15,7 +15,6 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * **Human Intelligent Task(HIT)** The smallest amount of work a worker can accept  
 * **Assignment** A replica of a HIT  
 * **HIT group** A automaticly created group of HITs  
-* **Microtask** A task that require no training.
 --
 ## Example HIT 
 ![figure](img/amt-example.png)
