@@ -41,11 +41,6 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Options are leading
 
 ![figure](img/ui.png)
---
-## Problems
-* Budget
-* Uncorrect values (spammers)
-* Outdated
 ---
 ## CrowdSQL
 *A superset of SQL*
@@ -112,6 +107,7 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 * Joining on unknown values
 ---
 ## Conclusion
-* <!-- Combination of human input and efficient DBMS creates--> New possibilities
+* It is possible
+* <!-- Combination of human input and efficient DBMS -->Creates New possibilities
 * Only a proof of concept
-* Fallpits
+* Trade-offs 
