@@ -108,6 +108,6 @@ Franklin et al. *CrowdDB: Answering Queries with Crowdsourcing*
 ---
 ## Conclusion
 * It is possible
-* <!-- Combination of human input and efficient DBMS -->Creates New possibilities
+* <!-- Combination of human input and efficient DBMS -->Creates new possibilities
 * Only a proof of concept
 * Trade-offs 
